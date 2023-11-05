@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naqueeb</h1>
 <br/>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Developer;React+Developer;Java+Backend+Developer;Freelancer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Web+Developer;MERN+Stack+Developer;JAVA+Backend+Developer;React+Developer;Freelancer;Quick+learner&color=cyan&center=true" />
 </div>
 
 ## 🌐 Socials:
